@@ -1,0 +1,12 @@
+.fruitsList{
+    background-color: #f3f3f3;
+    padding: 10px;
+    list-style-type: none;
+    border-radius: 10px;
+}
+
+.fruitsItem{
+    padding: 5px;
+    text-transform: capitalize;
+    border: .5px solid #d3d3d3;
+}
